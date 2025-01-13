@@ -1,0 +1,7 @@
+body {
+    display: grid;
+    justify-content: center;
+    background-image:url('https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif');
+    background-size: cover; 
+
+}
